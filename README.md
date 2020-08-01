@@ -28,4 +28,6 @@ In 2020, I'm hoping to
 
 #### KPDRL
 ![KPDRL header](https://raw.githubusercontent.com/KPDwyer/KPDRL/master/Images/header.png)
-KPDRL is a small framework I'm working on for building roguelike inspired games.
+[KPDRL](https://github.com/KPDwyer/KPDRL) is a small framework I'm working on for building roguelike inspired games.
+![mapgen image](Images/mapgen.png)
+KPDRL has a unique, node-based map generator - check out [this twitter thread](https://twitter.com/_KPDwyer/status/1204466766530957314) for more.
