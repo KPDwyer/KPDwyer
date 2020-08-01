@@ -27,4 +27,5 @@ In 2020, I'm hoping to
 ### Past & Present Projects ⌚
 
 #### KPDRL
-<blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">Generating Geopolitical boundaries with cellular noise <a href="https://twitter.com/hashtag/procgen?src=hash&amp;ref_src=twsrc%5Etfw">#procgen</a> <a href="https://twitter.com/hashtag/unity3d?src=hash&amp;ref_src=twsrc%5Etfw">#unity3d</a> <a href="https://t.co/tl8I9KviHA">pic.twitter.com/tl8I9KviHA</a></p>&mdash; KPDwyer (@_KPDwyer) <a href="https://twitter.com/_KPDwyer/status/1212803318260609025?ref_src=twsrc%5Etfw">January 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+![KPDRL header](https://raw.githubusercontent.com/KPDwyer/KPDRL/master/Images/header.png)
+KPDRL is a small framework I'm working on for building roguelike inspired games.
