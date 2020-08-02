@@ -45,3 +45,8 @@ I post a whole bunch of WIPs and experiments on [my twitter](https://twitter.com
 ![repos](Images/repos.png)
 
 You can find a handful of useful open source games + tools in [my repo list](https://github.com/KPDwyer?tab=repositories)
+
+#### Itch.io
+![itch banner](Images/itch.png)
+
+You can find a bunch of jam games, bundled tools and prototypes on [My Itch page](https://kpdwyer.itch.io/)
