@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-![](Images/itch.png)
+![](https://raw.githubusercontent.com/KPDwyer/KPDwyer/master/Images/itch.png)
 
 My name is Kyle, and I'm a Technical Artist / UI Developer / Team Lead at a mobile game studio in Toronto.   I spend most of my workday 
 
@@ -28,7 +28,7 @@ In 2020, I'm hoping to
 
 ### Past & Present Projects ⌚
 
-![](Images/kpdrlheader.png)
+![](https://raw.githubusercontent.com/KPDwyer/KPDwyer/master/Images/kpdrlheader.png)
 
 [KPDRL](https://github.com/KPDwyer/KPDRL) is a small framework I'm working on for building roguelike inspired games.
 
