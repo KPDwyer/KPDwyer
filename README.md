@@ -30,9 +30,9 @@ In 2020, I'm hoping to
 
 [KPDRL](https://github.com/KPDwyer/KPDRL) is a small framework I'm working on for building roguelike inspired games.
 
-KPDRL has a unique, node-based map generator - check out [this twitter thread](https://twitter.com/_KPDwyer/status/1204466766530957314) for more.
-
 ![KPDRL header](Images/kpdrlheader.png)
+
+KPDRL has a unique, node-based map generator - check out [this twitter thread](https://twitter.com/_KPDwyer/status/1204466766530957314) for more.
 
 #### Twitter
 
@@ -41,5 +41,7 @@ KPDRL has a unique, node-based map generator - check out [this twitter thread](h
 I post a whole bunch of WIPs and experiments on [my twitter](https://twitter.com/_KPDwyer)
 
 #### Repositories
+
+![repos](Images/repos.png)
 
 You can find a handful of useful open source games + tools in [my repo list](https://github.com/KPDwyer?tab=repositories)
