@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-![itch banner](Images/itch.png)
+![](Images/itch.png)
 
 My name is Kyle, and I'm a Technical Artist / UI Developer / Team Lead at a mobile game studio in Toronto.   I spend most of my workday 
 
@@ -12,9 +12,7 @@ My name is Kyle, and I'm a Technical Artist / UI Developer / Team Lead at a mobi
 
 - 📏 and profiling our game.  
 
-
-
-![KPDRL header](Images/kpdrlheader.png)
+  
 
 When I manage to avail myself of some free time, I try to dive into topics that don't come up as often during my day job.  You can take a look at some of my favourite projects below.  
 
@@ -30,7 +28,7 @@ In 2020, I'm hoping to
 
 ### Past & Present Projects ⌚
 
-![mapgen image](Images/mapgen.png)
+![](Images/kpdrlheader.png)
 
 [KPDRL](https://github.com/KPDwyer/KPDRL) is a small framework I'm working on for building roguelike inspired games.
 
