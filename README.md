@@ -6,6 +6,8 @@ My name is Kyle, and I'm a Technical Artist / UI Developer / Team Lead at a mobi
 
 - 🛠 developing tools, 
 
+- 🖼 Architecting beautiful features,
+
 - 👨‍🔧 managing the asset pipeline, 
 
 - 👨‍💻 managing the team,
