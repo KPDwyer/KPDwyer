@@ -2,23 +2,22 @@
 
 ![](https://raw.githubusercontent.com/KPDwyer/KPDwyer/master/Images/itch.png)
 
-My name is Kyle, and I'm a Technical Artist / UI Developer / Team Lead at a mobile game studio in Toronto.   I spend most of my workday 
+My name is Kyle, and I'm a Principal Technical Artist at a mobile game studio in Toronto.   I spend most of my workday 
 
-- 🛠 developing tools, 
+- 🛠 developing tools for the Narrative, Animation and Art teams, 
 - 🖼 Architecting beautiful features,
 - 👨‍🔧 managing the asset pipeline, 
-- 👨‍💻 managing the team,
+- 👨‍💻 managing the members of the Technical Art team,
 - 📏 and profiling our game.  
 
 When I manage to avail myself of some free time, I try to dive into topics that don't come up as often during my day job.  You can take a look at some of my favourite projects below.  
 
-In 2021, I'm hoping to
+In 2022, I'm hoping to
 
-- 🐦 Continue building something neat with my friends at [Boss Chamber](https://www.twitch.tv/bosschamber),
-- 🎥 Keep experimenting with 3D - mostly volumetric modelling & retopology,
-- 🗺 Create, support and update more [RLBits](https://github.com/KPDwyer/rlbits-mapping), my modular Unity tools for building Roguelikes,
-- 🦀 and keep dogfooding my RLBits tools by chipping away at my hobby roguelike.
-- 🖊 Bonus:  I'm hoping to write a few more blog posts on [my blog](https://kpdwyer.github.io/)
+- 🐦 Continue building something neat with my friends at [Boss Chamber](https://twitter.com/boss_chamber),
+- 🎥 Keep experimenting with 3D in Blender: Sculpting, Rigging, Retopology and Geometry Nodes,
+- 🦀 and keeping things fresh by building a [Roguelike in Godot](https://twitter.com/_KPDwyer/status/1438324255092056064)
+- 🖊 Bonus:  I'm maintaining a [living notebook](https://kpdwyer.github.io/) which I keep breaking and rebuilding when the mood strikes.
 
 ### Past & Present Projects ⌚
 
