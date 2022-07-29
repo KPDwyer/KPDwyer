@@ -14,10 +14,9 @@ When I manage to avail myself of some free time, I try to dive into topics that 
 
 In 2022, I'm hoping to
 
-- 🐦 Continue building something neat with my friends at [Boss Chamber](https://twitter.com/boss_chamber),
-- 🎥 Keep experimenting with 3D in Blender: Sculpting, Rigging, Retopology and Geometry Nodes,
-- 🦀 and keeping things fresh by building a [Roguelike in Godot](https://twitter.com/_KPDwyer/status/1438324255092056064)
-- 🖊 Bonus:  I'm maintaining a [living notebook](https://kpdwyer.github.io/) which I keep breaking and rebuilding when the mood strikes.
+- 🐦 continue building something neat with my friends at [Boss Chamber](https://twitter.com/boss_chamber),
+- 🎥 keep experimenting with 3D in Blender: Sculpting, Rigging, Retopology and Geometry Nodes,
+- 🦀 and keep things fresh by building a [Roguelike in Godot](https://twitter.com/_KPDwyer/status/1438324255092056064)
 
 ### Past & Present Projects ⌚
 
