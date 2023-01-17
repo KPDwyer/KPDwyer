@@ -11,7 +11,7 @@ My name is Kyle, and I'm a Principal Technical Artist at a mobile game studio in
 
 When I manage to avail myself of some free time, I try to dive into topics that don't come up as often during my day job.  You can take a look at some of my favourite projects below.  
 
-In 2022, I'm hoping to
+In 2023, I'm hoping to
 
 - 🦀 keep things fresh by building a [Roguelike in Godot](https://mastodon.gamedev.place/@KPD/109600542593786415),
 - 🎥 keep experimenting with 3D in Blender: Sculpting, Rigging, Retopology and Geometry Nodes
