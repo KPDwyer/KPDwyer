@@ -2,7 +2,7 @@
 
 ![](https://raw.githubusercontent.com/KPDwyer/KPDwyer/master/Images/itch.png)
 
-My name is Kyle, and I'm a Seniuor Developer at a game studio in Toronto.   I spend most of my workday 
+My name is Kyle, and I'm a Senior Developer at a game studio in Toronto.   I spend most of my workday 
 
 - 🛠 developing tools for the Animation and Art teams, 
 - 👨‍🔧 managing the asset pipeline, 
