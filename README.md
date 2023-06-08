@@ -2,12 +2,12 @@
 
 ![](https://raw.githubusercontent.com/KPDwyer/KPDwyer/master/Images/itch.png)
 
-My name is Kyle, and I'm a Principal Technical Artist at a mobile game studio in Toronto.   I spend most of my workday 
+My name is Kyle, and I'm a Seniuor Developer at a game studio in Toronto.   I spend most of my workday 
 
-- 🛠 developing tools for the Narrative, Animation and Art teams, 
+- 🛠 developing tools for the Animation and Art teams, 
 - 👨‍🔧 managing the asset pipeline, 
-- 👨‍💻 managing the members of the Technical Art & Technical Design teams,
-- 📏 and profiling our game.  
+- 👨‍💻 writing code,
+- 📏 and profiling & optimizing our game.  
 
 When I manage to avail myself of some free time, I try to dive into topics that don't come up as often during my day job.  You can take a look at some of my favourite projects below.  
 
